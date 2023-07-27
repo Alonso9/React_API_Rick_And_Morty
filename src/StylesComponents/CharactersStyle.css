@@ -1,0 +1,17 @@
+.titleCharacters {
+  color: rgb(15, 15, 16);
+  text-align: center;
+}
+
+li {
+  padding-top: 5px;
+  margin: 5px;
+}
+
+.card {
+  background-color: rgb(219, 217, 217);
+  margin-top: 30px;
+  margin-left: 10px;
+  width: 280px;
+  height: auto;
+}

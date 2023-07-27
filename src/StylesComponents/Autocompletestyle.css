@@ -1,0 +1,13 @@
+.suggestion {
+  padding: 5px;
+}
+
+.inputAutocompalte {
+  width: 100px;
+  align-items: center;
+}
+input {
+  width: 500px;
+  height: 40px;
+  background-color: aqua;
+}

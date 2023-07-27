@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(29, 122, 184);
+  text-align: center;
+  font: oblique bold 120% cursive;
+}
